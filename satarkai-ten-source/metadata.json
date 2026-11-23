@@ -1,0 +1,6 @@
+{
+  "name": "Satark Live Guard",
+  "description": "A multilingual scam-safety assistant for India with on-device text analysis, contextual guidance, and a response playbook in 12 Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_BROWSER_LOCAL_LLM"]
+}
